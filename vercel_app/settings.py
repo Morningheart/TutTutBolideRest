@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'example',
     'rest_framework',
-    'distances'
+    'distance'
 ]
 
 MIDDLEWARE = [
